@@ -148,3 +148,5 @@ sudo mcedit /etc/postgresql/9.6/main/pg_hba.conf
 "host    all         all         192.168.1.0/24        md5"
 
 sudo service postgresql restart
+
+test push from dev comp
